@@ -123,7 +123,7 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w432723417.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png" group-title="DOMINICAN REP",Senales TV
 http://rctvhdstream.net:5050/rctv/senalestv.stream/chunklist_w761895253.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/GfkBsd" group-title="DOMINICAN REP",TV Digital Imperial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/07/TV-DIGITAL-IMPERIAL-LOGO-2-218x150.png" group-title="DOMINICAN REP",TV Digital Imperial
 http://cm.hostlagarto.com:8081/tvdigitalimperial/tvdigitalHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2015/03/teleazul.png" group-title="DOMINICAN REP",Tele Azul
