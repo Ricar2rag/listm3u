@@ -1,5 +1,21 @@
 #EXTM3U
 
+========= Peliculas ==========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/2AKg7A" group-title="Peliculas!",Pelicula 1-Mewtwo contraataca
+http://37.59.21.34:8777/juohoq6joqikkfn2mck72jytg5afwchpbgzc3zdvmai4b4ty5icmw33jqa/v.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/jkaRZs" group-title="Peliculas!",Pelicula 2-El poder de uno
+http://178.33.238.147:8777/jmohph6ioqikkfn2mck72zatmaz2pxecldi35nlbrxyswanqou6ks3xi3i/v.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/86Exek" group-title="Peliculas!",Pelicula 3-El hechizo de los Unown
+http://178.33.238.147:8777/jmohp4gioqikkfn2mcm7yoarglnqfumccqe32vhw4ak3n6zsbjams77z3q/v.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/evghdv" group-title="Peliculas!",Pelicula 4-Pokemon x siempre: Celebi, la voz del bosque
+http://5.39.70.113:8777/m4ohoq6ioqikkfn2mcm7yjqmh6e2wb2pqp4mkbaatby77dvheqvgq54sau/v.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/bSoQ7K" group-title="Peliculas!",Pelicula 5-Heroes Pokemon: Latios y Latias
+http://178.33.238.147:8777/jmohodrqoqikkfn2mck72zqhmn3h5l7shwimgz7emjef5h2qxlspcwlabi/v.mp4
+
+
+
+
 ========= 1era Temporada ==========
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/vRGkbg" group-title="ATRAPALO YA!",Cap01: Pokemon yo te elijo
@@ -1041,3 +1057,10 @@ https://ia801908.us.archive.org/2/items/P0kS10028AnimeMF.netAngelord/P0kS10_050%
 https://ia801908.us.archive.org/2/items/P0kS10028AnimeMF.netAngelord/P0kS10_051%5BAnimeMF.net%5D-angelord.mp4
 
 ========= 11va Temporada ==========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/qgjE82" group-title="DIMENSION DE BATALLA!",Cap1: Enfrenta tus temores
+https://videos3.sendvid.com/62/83/yd87kvpq.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/qgjE82" group-title="DIMENSION DE BATALLA!",Cap2: Que verdes eran los pastos 
+https://videos3.sendvid.com/4e/e4/0xcd5mzh.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/qgjE82" group-title="DIMENSION DE BATALLA!",Cap3: El intercambio 
+https://videos3.sendvid.com/9c/51/u3y2sdk5.mp4
